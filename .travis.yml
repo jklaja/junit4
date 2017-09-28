@@ -6,3 +6,4 @@ jdk:
 cache:
   directorie:
   - $HOME/.m2
+
